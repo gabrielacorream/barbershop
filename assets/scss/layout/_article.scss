@@ -1,0 +1,30 @@
+//seccion parrafo
+.container {
+    font-family: $roboto;
+    font-style: normal;
+    .fecha {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        color: $nickel ;
+    }
+    .parrafo1 {
+        color: $nickel;
+        line-height: 30px;
+    }
+    .parrafo2{
+        color: $nickel;
+        line-height: 30px;
+    }
+} 
+    
+span {
+    color: $spanishpink;
+}    
+
+
+ hr{
+        background-color: $raisinblack; 
+        border: 0 none; 
+        color: $raisinblack; 
+        height: 1px; 
+ }
