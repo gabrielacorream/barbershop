@@ -14,68 +14,7 @@
     padding-bottom: 5rem;
 }
 
-.fecha {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    color: $nickel ;
-}
-//seccion parrafo
-div {
-    .parrafo1 {
-        color: $nickel;
-        line-height: 30px;
-    }
-    .parrafo2{
-        color: $nickel;
-        line-height: 30px;
-    }
-} 
-    
-span {
-    color: $spanishpink;
-}    
 
 
- hr{
-        background-color: $raisinblack; 
-        border: 0 none; 
-        color: $raisinblack; 
-        height: 1px; 
- }
 
-//seccion naomi
-.naomi {
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-.container {
-    .naomi_img{
-        width: 150px;
-        display:block;
-        margin:auto;   
-        border-radius: 50ch;
-    }
-    .card-body {
-        padding: 0;
-    }
-    .card-title {
-        font-style: italic;
-        padding-top: 20px;
-        margin-bottom: 3px;
-        text-align:center;
-       
-    }
-    .card-text {
-        color: $spanishpink;
-        margin-bottom: 0px;
-        padding-bottom: 0px;
-        text-align:center;
-    }
-    .naomi_text{
-        padding-top: 18px;
-        padding-left: 5px;
-    }   
-}
-    
    
